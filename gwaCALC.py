@@ -57,7 +57,7 @@ def MockorPraise(average):
     elif average >= 5.00:
         print("HAHAHAHAHHAHAHAHHAHAHHAHAHHA, what the hell did you do?")
         
-        
+print("WE SHALL SEE YOUR GRADES!!!")        
 Subjects = getSubjects()
 '''
 print (Grades)
